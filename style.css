@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Sedgwick+Ave+Display&display=swap');
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    background-color:#a297f7ff;
+    font-size:xx-large;
+    
+}
+nav ul li{
+    position: relative;
+    padding: 45px;
+
+}
+nav{
+    background-color:#a297f7ff;
+    font-family: 'Sedgwick Ave Display', cursive;
+
+}
+ 
+body{
+    background-color:#c1aff7ff;
+}
+nav span{
+    font-size:x-large;
+
+}
+.anu{
+    font-family: 'Shadows Into Light', cursive;
+}
